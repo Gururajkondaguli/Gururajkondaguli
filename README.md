@@ -5,6 +5,10 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="developer at work"/>
 </p>
 
+<p align="center">
+  <img src="qrcode.png" width="300" alt="developer at work"/>
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gururajkondaguli&label=Profile%20views&color=0e75b6&style=flat" alt="gururajkondaguli" /> </p>
 
