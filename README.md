@@ -120,7 +120,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gururajkondaguli&" alt="gururajkondaguli" /></p>
 
 <p align="left">
-  <a href="https://www.buymeacoffee.com/Gururajkondaguli" target="_blank">
+  <a href="https://www.buymeacoffee.com/Gururajkondaguli](https://buymeacoffee.com/gururajkondaguli" target="_blank">
     <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 170px !important;">
   </a>
 </p>
