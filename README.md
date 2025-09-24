@@ -104,6 +104,107 @@
 
 ---
 
+
+# L1 Technical Support — Quick Reference
+
+> A compact README for **L1 Technical Support**, troubleshooting steps, better web browsing practices, and recommended tools.
+
+---
+
+## 🛠️ Technical Support (L1) & Better Web Browsing
+
+### 🔧 Technical Support (L1)
+- Serve as **first-line support**: receive and respond to user issues.  
+- Triage issues by severity, type (software, hardware, network).  
+- Follow documented troubleshooting steps and knowledge base articles.  
+- Gather details: OS version, app version, error codes, screenshots.  
+- Apply quick fixes (restart app/system, clear cache, reconfigure).  
+- Escalate complex cases with full details to **L2/L3**.  
+- Keep communication clear and professional with end-users.  
+
+### 🌐 Better Web Browsing Practices
+- Always use the **latest browser version** (Chrome, Firefox, Edge).  
+- Test in **Incognito / Private Mode** to rule out cache/extension issues.  
+- Disable unnecessary **extensions** when debugging.  
+- Use **Developer Tools (F12)** → Console, Network, Storage, Performance.  
+- Regularly clear **cache & cookies**.  
+- Verify across **different browsers/devices** to isolate issues.  
+- **Never request passwords**; follow security policies when using remote support tools.  
+
+---
+
+## 🖥️ Tools & Platforms
+<p align="left"> 
+
+<!-- Git -->
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+</a> 
+
+<!-- GitHub -->
+<a href="https://github.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40" height="40"/> 
+</a> 
+
+<!-- Eclipse -->
+<a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" alt="eclipse" width="40" height="40"/> 
+</a> 
+
+<!-- IntelliJ IDEA -->
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
+  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" alt="intellij" width="40" height="40"/> 
+</a> 
+
+<!-- PyCharm -->
+<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> 
+  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" alt="pycharm" width="40" height="40"/> 
+</a> 
+
+<!-- VS Code -->
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
+</a> 
+
+<!-- WebStorm -->
+<a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"> 
+  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg" alt="webstorm" width="40" height="40"/> 
+</a> 
+
+<!-- MySQL -->
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> 
+</a> 
+
+<!-- MongoDB -->
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
+</a> 
+
+<!-- MongoDB Atlas -->
+<a href="https://www.mongodb.com/atlas/database" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB Atlas" width="120" height="40"/> 
+</a>
+
+
+<!-- Linux -->
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+</a> 
+
+<!-- Figma -->
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+</a> 
+
+</p>
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License**.  
+
+
 ### 📐 Mathematics & Numerics  
 - <img src="https://img.icons8.com/ios-filled/50/000000/trigonometry.png" width="30"/> **Trigonometry**
 - <img src="https://img.icons8.com/ios-filled/50/000000/integral.png" width="30"/> **Calculus**  
@@ -136,9 +237,24 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gururajkondaguli&" alt="gururajkondaguli" /></p>
 
-<p align="left">
-  <a href="https://www.buymeacoffee.com/Gururajkondaguli](https://buymeacoffee.com/gururajkondaguli" target="_blank">
-    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 170px !important;">
+## ☕ Support Me
+
+<p align="center">
+  <b>If you find this project helpful, you can support me by buying me a coffee 💛</b>
+</p>
+
+<p align="center">
+  <a href="buymeacoffee.com/Gururajkondaguli" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217" />
   </a>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge" alt="Made with Love"/>  
+  <br>
+  <b>🌍 For the Tech Community • Built with Passion ⚡</b>
+</p>
+
 
