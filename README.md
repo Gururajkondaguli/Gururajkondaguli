@@ -237,12 +237,15 @@ This project is licensed under the **MIT License**.
 
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gururajkondaguli&" alt="gururajkondaguli" /></p>
 
 ## ☕ Support Me
 
 <p align="center">
   <b>If you find this project helpful, you can support me by buying me a coffee 💛</b>
+</p>
+
+<p align="center">
+  <img src="./qr-code.png" alt="screenshot" width="300"/>
 </p>
 
 <p align="center">
@@ -258,5 +261,7 @@ This project is licensed under the **MIT License**.
   <br>
   <b>🌍 For the Tech Community • Built with Passion ⚡</b>
 </p>
+
+
 
 
