@@ -19,6 +19,8 @@
 
 <p align="left"> <a href="https://twitter.com/gururaj kondaguli" target="blank"><img src="https://img.shields.io/twitter/follow/gururaj kondaguli?logo=twitter&style=for-the-badge" alt="gururaj kondaguli" /></a> </p>
 
+- I'm currently working on Project **Modelling Portfolio WebSite**
+
 - 🔭 I’m currently working on **Web Designing**
 
 - 🌱 I’m currently learning **MERN Stack**
