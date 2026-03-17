@@ -144,47 +144,21 @@
 
 ---
 
-### 🛠️ Support Skills
-
 <p align="left">
 
 <!-- Technical Support -->
 <a href="https://en.wikipedia.org/wiki/Technical_support" target="_blank" rel="noreferrer"> 
-  <img src="https://img.icons8.com/color/48/technical-support.png" alt="technical support" width="40" height="40"/> 
-</a>
-
-<a href="https://en.wikipedia.org/wiki/Customer_support" target="_blank" rel="noreferrer"> 
-  <img src="https://img.icons8.com/color/48/customer-support.png" alt="customer support" width="40" height="40"/> 
-</a>
-
-<a href="https://learn.microsoft.com/en-us/troubleshoot/" target="_blank" rel="noreferrer"> 
-  <img src="https://img.icons8.com/color/48/help.png" alt="troubleshooting" width="40" height="40"/> 
+  <img src="https://cdn.simpleicons.org/gnometerminal" alt="technical support" width="40" height="40"/> 
 </a>
 
 <!-- Desktop Support -->
 <a href="https://en.wikipedia.org/wiki/Desktop_computer" target="_blank" rel="noreferrer"> 
-  <img src="https://img.icons8.com/color/48/monitor.png" alt="desktop support" width="40" height="40"/> 
+  <img src="https://cdn.simpleicons.org/windows" alt="desktop support" width="40" height="40"/> 
 </a>
 
-<a href="https://en.wikipedia.org/wiki/Microsoft_Windows" target="_blank" rel="noreferrer"> 
-  <img src="https://img.icons8.com/color/48/windows-10.png" alt="windows" width="40" height="40"/> 
-</a>
-
-<a href="https://en.wikipedia.org/wiki/Linux" target="_blank" rel="noreferrer"> 
-  <img src="https://img.icons8.com/color/48/linux.png" alt="linux" width="40" height="40"/> 
-</a>
-
-<!-- Application Support -->
-<a href="https://en.wikipedia.org/wiki/Application_software" target="_blank" rel="noreferrer"> 
-  <img src="https://img.icons8.com/color/48/application-window.png" alt="application support" width="40" height="40"/> 
-</a>
-
-<a href="https://en.wikipedia.org/wiki/Software_maintenance" target="_blank" rel="noreferrer"> 
-  <img src="https://img.icons8.com/color/48/settings.png" alt="software support" width="40" height="40"/> 
-</a>
-
-<a href="https://en.wikipedia.org/wiki/Bug_tracking_system" target="_blank" rel="noreferrer"> 
-  <img src="https://img.icons8.com/color/48/bug.png" alt="bug fixing" width="40" height="40"/> 
+<!-- Application Troubleshooting -->
+<a href="https://learn.microsoft.com/en-us/troubleshoot/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.simpleicons.org/debug" alt="application troubleshooting" width="40" height="40"/> 
 </a>
 
 </p>
