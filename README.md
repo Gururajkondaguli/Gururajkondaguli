@@ -83,7 +83,7 @@
 
 ---
 
-### ✳️ Animation Libraries
+### ✨ Animation Libraries
 <p align="left">
 <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png" alt="framer motion" width="40" height="40"/> </a>
 <a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="gsap" width="40" height="40"/> </a>
