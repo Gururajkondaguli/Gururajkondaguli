@@ -56,6 +56,18 @@
 
 ---
 
+### ✨ Animation Libraries
+<p align="left">
+<a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer motion" width="40" height="40"/> 
+</a>
+<a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/greensock/greensock-icon.svg" alt="gsap" width="40" height="40"/> 
+</a>
+</p>
+
+---
+
 ### ✳️ CSS Preprocessor
 <p align="left">
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
