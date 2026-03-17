@@ -56,13 +56,12 @@
 
 ---
 
-### ✨ Animation Libraries
 <p align="left">
 <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer motion" width="40" height="40"/> 
 </a>
 <a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/greensock/greensock-icon.svg" alt="gsap" width="40" height="40"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="gsap" width="40" height="40"/> 
 </a>
 </p>
 
