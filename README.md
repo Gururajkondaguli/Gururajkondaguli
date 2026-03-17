@@ -143,22 +143,22 @@
 </p>
 
 ---
-
+### 📐 Support Roles
 <p align="left">
 
 <!-- Technical Support -->
 <a href="https://en.wikipedia.org/wiki/Technical_support" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.simpleicons.org/gnometerminal" alt="technical support" width="40" height="40"/> 
+  <img src="https://cdn-icons-png.flaticon.com/512/3062/3062634.png" alt="technical support" width="40" height="40"/> 
 </a>
 
 <!-- Desktop Support -->
 <a href="https://en.wikipedia.org/wiki/Desktop_computer" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.simpleicons.org/windows" alt="desktop support" width="40" height="40"/> 
+  <img src="https://cdn-icons-png.flaticon.com/512/3524/3524636.png" alt="desktop support" width="40" height="40"/> 
 </a>
 
 <!-- Application Troubleshooting -->
 <a href="https://learn.microsoft.com/en-us/troubleshoot/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.simpleicons.org/debug" alt="application troubleshooting" width="40" height="40"/> 
+  <img src="https://cdn-icons-png.flaticon.com/512/1828/1828919.png" alt="application troubleshooting" width="40" height="40"/> 
 </a>
 
 </p>
